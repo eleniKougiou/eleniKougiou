@@ -1,7 +1,7 @@
 <img src=https://github.com/eleniKougiou/eleniKougiou/blob/main/wave.gif width="300px">
 
 ## Heyyy
-My namy is Eleni, I am from Greece and I am currently studying Informatics at Athens University of Economics and Business (AUEB).
+My namy is Eleni, I am from Greece, I studied Informatics at Athens University of Economics and Business (AUEB) and I am currently working as an iOS Mobile Developer at Desquared.
 
 If I can help you with something, send me a message!
 You can find me on [![LinkedIn][2.2]][2] or on [![Facebook][1.2]][1].
